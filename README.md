@@ -1,1 +1,0 @@
-# yangade.github.io

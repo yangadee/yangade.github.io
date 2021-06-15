@@ -1,3 +1,7 @@
+layout: page
+title: "Test page"
+permalink: /test.md
+
 ## Merge two remote branches
 If you have remote-tracking branches set up locally, it's as simple as:
 ```

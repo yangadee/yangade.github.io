@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 @media print, screen and (min-width: 960px) {
   .wrapper {
-    width: 1120px;
+    width: auto;
     margin: 0 auto;
   }
 

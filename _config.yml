@@ -6,7 +6,7 @@ highlighter: rouge
 title: Yangadee Pages
 description: Bring colors to life
 show_downloads: true
-google_analytics: true
+google_analytics: false
 github:
   is_project_page: true
 gist:

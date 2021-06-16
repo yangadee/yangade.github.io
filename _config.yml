@@ -3,10 +3,14 @@ safe: true
 source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
+
 title: Yangadee Pages
 description: Bring colours to life
 show_downloads: true
-google_analytics:
+google_analytics: true
+is_project_page
+github:
+  is_project_page: true
 gist:
   noscript: false
 kramdown:

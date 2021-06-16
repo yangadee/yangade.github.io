@@ -4,14 +4,6 @@
 @import "{{ site.theme }}";
 
 @media print, screen and (min-width: 960px) {
-  body {
-    background-color: #fff;
-    padding: 10px;
-    font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #727272;
-    font-weight: 400;
-  }
-
   div.wrapper {
     width: auto;
     margin: 0;
@@ -26,7 +18,7 @@
   }
 
   header {
-    padding-right: 400px;
+    padding-right: 320px;
   }
 
   section {

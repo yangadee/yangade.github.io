@@ -2,8 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
-@media print, screen and (min-width: 960px) {
+@media all {
   .wrapper {
     width: 1200px;
     margin: 0 auto;
@@ -14,12 +13,14 @@
     float: right;
     padding-bottom: 50px;
   }
+
   header {
     width: 350px;
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased;
   }
+
   footer {
     width: 350px;
     float: left;

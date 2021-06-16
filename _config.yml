@@ -2,6 +2,7 @@ title: Yangadee Pages
 logo: /assets/img/logo.png
 description: Bring colors to life
 show_downloads: true
+is_project_page: true
 gist:
   noscript: false
 kramdown:

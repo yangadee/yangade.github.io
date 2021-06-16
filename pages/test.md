@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Fist Page"
+permalink: /page/
+---
+
 ## Merge two remote branches
 If you have remote-tracking branches set up locally, it's as simple as:
 ```

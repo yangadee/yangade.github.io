@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE TITLE"
-permalink: /test.md
+permalink: /test
 ---
 
 ## Merge two remote branches

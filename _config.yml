@@ -1,8 +1,6 @@
 title: Yangadee Pages
 description: Bring colors to life
 show_downloads: true
-github:
-  is_project_page: true
 gist:
   noscript: false
 kramdown:
